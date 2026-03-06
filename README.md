@@ -53,7 +53,7 @@ A full-featured SaaS eCommerce platform built with modern architecture and stric
 - Subdomain-based storefront routing
 - Lazy-loaded Angular 21 standalone architecture
 
-**Tech Stack:** Angular 21 · TypeScript · Supabase · PostgreSQL · TailwindCSS · Google Gemini
+**Tech Stack:** Angular 21 · TypeScript · Supabase · PostgreSQL · TailwindCSS · Claude AI
 
 🔗 Repository: https://github.com/Juliodvp29/venti-multi-tenant
 
