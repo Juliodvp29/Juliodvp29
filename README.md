@@ -55,7 +55,7 @@ A full-featured SaaS eCommerce platform built with modern architecture and stric
 
 **Tech Stack:** Angular 21 · TypeScript · Supabase · PostgreSQL · TailwindCSS · Claude AI
 
-🔗 Repository: https://github.com/Juliodvp29/venti-multi-tenant
+🔗 Repository: Building...
 
 ---
 
