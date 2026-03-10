@@ -55,8 +55,7 @@ A full-featured SaaS eCommerce platform built with modern architecture and stric
 
 **Tech Stack:** Angular 21 · TypeScript · Supabase · PostgreSQL · TailwindCSS · Claude AI
 
-🔗 Repository: Building...
-
+🔗 Repository: https://juliotech.vercel.app/
 ---
 
 ## 📫 Contact
