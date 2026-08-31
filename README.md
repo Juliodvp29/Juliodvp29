@@ -29,19 +29,6 @@ Specialized in developing modern frontend architectures, robust REST APIs, serve
 
 ---
 
-## 📌 Professional Experience
-
-### **Full-Stack Web Developer** | *Answering Technologies* *(Jan 2024 – Feb 2026)*[cite: 1]
-- **Frontend Optimization:** Designed a modular frontend architecture based on reusable component systems, reducing development time by **30%**[cite: 1].
-- **Serverless Integration:** Implemented AWS Lambda functions in Python with REST APIs, decreasing main server load and improving response latency[cite: 1].
-- **Backend & Data:** Engineered high-performance SQL queries and integrated robust authentication, validation, and error-handling modules[cite: 1].
-
-### **Junior Developer** | *RHBT Tech Colombia* *(Dec 2022 – Feb 2024)*[cite: 1]
-- **Legacy Migration:** Participated in the migration and modernization of existing frontend modules, improving codebase maintainability[cite: 1].
-- **Core Engineering:** Integrated RESTful APIs, optimized database queries, and contributed to evolutionary maintenance for enterprise applications[cite: 1].
-
----
-
 ## 🚀 Featured Project
 
 ### 🛍️ Venti Shop — Multi-Tenant SaaS eCommerce Platform
