@@ -8,7 +8,7 @@ Specialized in developing modern frontend architectures, robust REST APIs, serve
 
 ## 🚀 About Me
 
-- 🏗️ **Frontend Architecture:** Modular architectures, microfrontends, and reusable component systems (Angular 20+).
+- 🏗️ **Frontend Architecture:** Modular architectures, microfrontends, and reusable component systems (Angular 22).
 - ⚙️ **Backend & Databases:** RESTful API design, database query optimization, and serverless architectures (Node.js, Python, SQL)[cite: 1].
 - ☁️ **Cloud & DevOps:** AWS Lambda serverless deployments, Docker, CI/CD pipelines, and cloud integration[cite: 1].
 - 🧠 **Continuous Learning:** Actively exploring Rust ecosystems and Artificial Intelligence integration.
