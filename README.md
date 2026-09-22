@@ -1,54 +1,60 @@
-# 👋 Hi, I'm Julio Otero
+<div align="center">
+   <h1>Hi there, I'm Julio otero ⚡</h1>
+  <p><b>Full-Stack Developer from Colombia 🇨🇴</b></p>
+  <p>I build web applications, backend systems, and whatever interesting idea I happen to be exploring..</p>
 
-💻 **Full-Stack Software Developer** with **3+ years of experience** building and scaling enterprise web applications.
+  <br />
 
-Specialized in developing modern frontend architectures, robust REST APIs, serverless components, and data optimization. I focus on delivery-driven engineering, code maintainability, and product-focused execution.
+  <div align="center">
+  <h3>🛠️ Tech Stack</h3>
 
----
+  <!-- Fila 1: Frontend & Backend Core -->
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=ts,js,angular,astro,nodejs,java,spring,rust,python" alt="Frontend and Backend Stack" />
+    </a>
+  </p>
 
-## 🚀 About Me
+  <!-- Fila 2: Bases de datos, Cloud & DevOps -->
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,aws,docker,git" alt="Databases, Cloud and DevOps Stack" />
+    </a>
+  </p>
+</div>
 
-- 🏗️ **Frontend Architecture:** Modular architectures, microfrontends, and reusable component systems (Angular 22).
-- ⚙️ **Backend & Databases:** RESTful API design, database query optimization, and serverless architectures (Node.js, Python, SQL)[cite: 1].
-- ☁️ **Cloud & DevOps:** AWS Lambda serverless deployments, Docker, CI/CD pipelines, and cloud integration[cite: 1].
-- 🧠 **Continuous Learning:** Actively exploring Rust ecosystems and Artificial Intelligence integration.
-- 🌎 Based in Colombia[cite: 1]
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-`Angular` • `TypeScript` • `JavaScript` • `TailwindCSS` • `Microfrontends` • `HTML5` • `CSS3/SCSS`[cite: 1]
-
-### Backend & Databases
-`Node.js` • `NestJS` • `Express` • `Python` • `Java (Spring Boot)` • `PostgreSQL` • `MySQL`[cite: 1]
-
-### Cloud & DevOps
-`AWS (Lambda, S3)` • `Docker` • `CI/CD` • `Jenkins` • `Git / Git Flow`[cite: 1]
-
----
-
-## 🚀 Featured Project
-
-### 🛍️ Venti Shop — Multi-Tenant SaaS eCommerce Platform
-
-A full-featured SaaS eCommerce platform built with modern architecture and strict multi-tenancy using Row Level Security (RLS).
-
-**Highlights:**
-- Shared-schema multi-tenant architecture (PostgreSQL + RLS)
-- 30+ normalized database tables & Role-Based Access Control (RBAC)
-- AI Assistant powered by Google Gemini with function calling
-- Subdomain-based storefront routing & lazy-loaded Angular standalone architecture
-
-**Tech Stack:** `Angular` · `TypeScript` · `Supabase` · `PostgreSQL` · `TailwindCSS` · `Google Gemini`
-
-🔗 **Demo / Portfolio:** [juliotech.vercel.app](https://juliotech.vercel.app/)
+  <br />
+</div>
 
 ---
 
-## 📫 Contact
+### 🚀 Featured Project: [Venti Shop](https://venti-multi-tenant.vercel.app/)
+Multi-tenant SaaS eCommerce platform designed for performance and scalability.
 
-📧 **Email:** julionew19@gmail.com[cite: 1]  
-💼 **LinkedIn:** [linkedin.com/in/julio-enrique-25481122b](https://www.linkedin.com/in/julio-enrique-25481122b/)[cite: 1]  
-📱 **Phone:** +57 320 861 7896[cite: 1]
+- **Architecture:** Shared multi-tenant schema with Row-Level Security (RLS) in PostgreSQL.
+- **Innovation:** Integrated AI assistant powered by **Google Gemini** with function calling.
+- **Frontend:** Standalone architecture using Angular and TailwindCSS.
+
+---
+
+### 🦷 [Odentix Backend](https://github.com/Juliodvp29/odentix-backend) — Dental Management API 🚧 *(Under Construction)*
+Containerized enterprise backend system for the digitization and comprehensive management of dental clinics.
+- **Focus:** Robust architecture for appointment scheduling, digital medical records, and patient management.
+- **Infrastructure:** Modular RESTful API fully containerized with Docker.
+- **Tech Stack:** `Java` · `Spring Boot` · `PostgreSQL` · `Docker` · `REST API`
+
+---
+
+<div align="center">
+  <h3>📬 Let's connect</h3>
+  
+  <a href="https://www.linkedin.com/in/julio-otero-25481122b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:julionew19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://juliotech.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
